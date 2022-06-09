@@ -1,0 +1,13 @@
+* {
+    background-color: blanchedalmond;
+    font-size: 18px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+h1, h2{
+    color: rgb(63, 63, 63);
+    font-size: 48px;
+}
+h2{
+    font-size: 32px;
+}
